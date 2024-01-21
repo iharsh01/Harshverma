@@ -22,7 +22,7 @@ header {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 40px;
+    padding: 10 px;
     animation: slideUp ease-in-out 1;
     animation-fill-mode: forwards;
     animation-duration: 1.5s;
@@ -76,7 +76,7 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 20px;
+    padding: 5px;
     position: fixed;
     bottom: 0;
     width: 100%;
