@@ -1,0 +1,46 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #cf8b53;
+    color: #0c0a0a;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+section {
+    margin: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 12px;
+}
+
+header img {
+    border-radius: 50%; /* Add a circular border to the image */
+    max-width: 140px; /* Set the maximum width of the image */
+    height: auto; /* Maintain aspect ratio */
+    margin-bottom: 3px;
+}
+
+
+
